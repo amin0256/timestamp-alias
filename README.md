@@ -1,4 +1,4 @@
-#about
+# about
 This is a short script that add an alias for timestamp to your shell main file.
 To do this, just run 'run.sh' file in a supported shell like bash.
 
