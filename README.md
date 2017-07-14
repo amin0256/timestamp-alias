@@ -10,3 +10,5 @@ unzip master.zip && cd timestamp-alias-master
 ### Remote update
     curl -s https://raw.githubusercontent.com/amin0256/timestamp-alias/master/run.sh | sh
 
+### use
+    timestamp
